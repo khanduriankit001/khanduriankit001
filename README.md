@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusia
 
 Feel free to reach out to me on:
 
-- [LinkedIn](www.linkedin.com/in/ankit-khanduri-9a7a1646)
+- [LinkedIn](www.linkedin.com/in/iamankitkhanduri)
 
 ---
 
