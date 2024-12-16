@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Ankit Khanduri!
+# 👋 Hi there, I'm Ankit Khanduri
 
 Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusiast, always eager to learn new things and contribute to exciting projects. Feel free to explore my repositories and reach out if you want to collaborate!
 
@@ -13,17 +13,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusia
 
 ---
 
-## 🛠️ Skills & Tools
-
-- **Languages**: Shell, Python, Java
-- **Frameworks**: React, Node.js, Express, Django
-- **Database**: MongoDB, PostgreSQL, MySQL
-- **Cloud**: AWS, Azure, Google Cloud
-- **DevOps**: Docker, Kubernetes, Jenkins, Terraform
-- **Others**: Git, GitHub, Nginx, REST APIs
-
----
-
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanduriankit001&show_icons=true&count_private=true&hide=prs&theme=dracula)
@@ -34,16 +23,13 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusia
 
 Feel free to reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourname/)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Blog](https://yourblog.com)
+- [LinkedIn](www.linkedin.com/in/ankit-khanduri-9a7a1646)
 
 ---
 
 ## ⚡ Fun Stats
 
-- 🌍 **Languages Spoken**: English, Spanish, German
+- 🌍 **Languages Spoken**: English, Hindi
 - 🎮 **Hobbies**: Gaming, Traveling, Photography
-- 🎨 **Favorite Design Tool**: Figma
-- 🌱 **Currently Learning**: Blockchain, AI, Cloud Development
+- 🌱 **Currently Learning**: ML, AI, Cloud Development
 
