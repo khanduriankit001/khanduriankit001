@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusia
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanduriankit001&show_icons=true&count_private=true&hide=prs&theme=dracula)
 
 ---
 
