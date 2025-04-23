@@ -13,12 +13,6 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer and tech enthusia
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanduriankit001&show_icons=true&count_private=true&hide=prs&theme=dracula)
-
----
-
 ## 💬 Let's Connect
 
 Feel free to reach out to me on:
